@@ -1,0 +1,204 @@
+D:\CODE\PBO C#\PBO_Imanuel\bin\PBO_Imanuel.dll.config
+D:\CODE\PBO C#\PBO_Imanuel\bin\PBO_Imanuel.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\PBO_Imanuel.pdb
+D:\CODE\PBO C#\PBO_Imanuel\bin\roslyn\csc.exe
+D:\CODE\PBO C#\PBO_Imanuel\bin\roslyn\csc.exe.config
+D:\CODE\PBO C#\PBO_Imanuel\bin\roslyn\csc.rsp
+D:\CODE\PBO C#\PBO_Imanuel\bin\roslyn\csi.exe
+D:\CODE\PBO C#\PBO_Imanuel\bin\roslyn\csi.exe.config
+D:\CODE\PBO C#\PBO_Imanuel\bin\roslyn\csi.rsp
+D:\CODE\PBO C#\PBO_Imanuel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CODE\PBO C#\PBO_Imanuel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\roslyn\Microsoft.Managed.Core.targets
+D:\CODE\PBO C#\PBO_Imanuel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CODE\PBO C#\PBO_Imanuel\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\roslyn\System.AppContext.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\roslyn\System.Collections.Immutable.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\roslyn\System.Console.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\roslyn\System.Globalization.Calendars.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\roslyn\System.IO.Compression.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\roslyn\System.IO.FileSystem.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\roslyn\System.Net.Http.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\roslyn\System.Net.Sockets.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\roslyn\System.Reflection.Metadata.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\roslyn\System.ValueTuple.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\roslyn\System.Xml.XPath.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\roslyn\vbc.exe
+D:\CODE\PBO C#\PBO_Imanuel\bin\roslyn\vbc.exe.config
+D:\CODE\PBO C#\PBO_Imanuel\bin\roslyn\vbc.rsp
+D:\CODE\PBO C#\PBO_Imanuel\bin\roslyn\VBCSCompiler.exe
+D:\CODE\PBO C#\PBO_Imanuel\bin\roslyn\VBCSCompiler.exe.config
+D:\CODE\PBO C#\PBO_Imanuel\bin\Antlr3.Runtime.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\AspNet.ScriptManager.bootstrap.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\AspNet.ScriptManager.jQuery.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\Microsoft.Bcl.HashCode.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\Microsoft.ScriptManager.WebForms.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\Newtonsoft.Json.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\Npgsql.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\System.Buffers.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\System.Collections.Immutable.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\System.Diagnostics.DiagnosticSource.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\System.Memory.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\System.Numerics.Vectors.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\System.Text.Encodings.Web.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\System.Text.Json.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\System.Threading.Channels.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\System.Threading.Tasks.Extensions.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\System.ValueTuple.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\System.Web.Optimization.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\WebGrease.dll
+D:\CODE\PBO C#\PBO_Imanuel\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\CODE\PBO C#\PBO_Imanuel\bin\Microsoft.Bcl.HashCode.xml
+D:\CODE\PBO C#\PBO_Imanuel\bin\Npgsql.xml
+D:\CODE\PBO C#\PBO_Imanuel\bin\System.Buffers.xml
+D:\CODE\PBO C#\PBO_Imanuel\bin\System.Collections.Immutable.xml
+D:\CODE\PBO C#\PBO_Imanuel\bin\System.Diagnostics.DiagnosticSource.xml
+D:\CODE\PBO C#\PBO_Imanuel\bin\System.Memory.xml
+D:\CODE\PBO C#\PBO_Imanuel\bin\System.Numerics.Vectors.xml
+D:\CODE\PBO C#\PBO_Imanuel\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\CODE\PBO C#\PBO_Imanuel\bin\System.Text.Encodings.Web.xml
+D:\CODE\PBO C#\PBO_Imanuel\bin\System.Text.Json.xml
+D:\CODE\PBO C#\PBO_Imanuel\bin\System.Threading.Channels.xml
+D:\CODE\PBO C#\PBO_Imanuel\bin\System.Threading.Tasks.Extensions.xml
+D:\CODE\PBO C#\PBO_Imanuel\bin\System.ValueTuple.xml
+D:\CODE\PBO C#\PBO_Imanuel\bin\System.Web.Optimization.xml
+D:\CODE\PBO C#\PBO_Imanuel\bin\Newtonsoft.Json.xml
+D:\CODE\PBO C#\PBO_Imanuel\bin\Antlr3.Runtime.pdb
+D:\CODE\PBO C#\PBO_Imanuel\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\CODE\PBO C#\PBO_Imanuel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CODE\PBO C#\PBO_Imanuel\obj\Debug\PBO_Imanuel.csproj.AssemblyReference.cache
+D:\CODE\PBO C#\PBO_Imanuel\obj\Debug\PBO_Imanuel.csproj.CoreCompileInputs.cache
+D:\CODE\PBO C#\PBO_Imanuel\obj\Debug\PBO_Imanuel.csproj.CopyComplete
+D:\CODE\PBO C#\PBO_Imanuel\obj\Debug\PBO_Imanuel.dll
+D:\CODE\PBO C#\PBO_Imanuel\obj\Debug\PBO_Imanuel.pdb
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\PBO_Imanuel.dll.config
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\PBO_Imanuel.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\PBO_Imanuel.pdb
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\roslyn\csc.exe
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\roslyn\csc.exe.config
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\roslyn\csc.rsp
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\roslyn\csi.exe
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\roslyn\csi.exe.config
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\roslyn\csi.rsp
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\roslyn\System.AppContext.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\roslyn\System.Console.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\roslyn\System.IO.Compression.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\roslyn\System.Net.Http.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\roslyn\System.Net.Sockets.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\roslyn\System.ValueTuple.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\roslyn\System.Xml.XPath.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\roslyn\vbc.exe
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\roslyn\vbc.exe.config
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\roslyn\vbc.rsp
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\roslyn\VBCSCompiler.exe
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\Antlr3.Runtime.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\Newtonsoft.Json.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\Npgsql.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\System.Buffers.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\System.Collections.Immutable.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\System.Memory.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\System.Numerics.Vectors.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\System.Text.Encodings.Web.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\System.Text.Json.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\System.Threading.Channels.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\System.ValueTuple.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\System.Web.Optimization.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\WebGrease.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\Npgsql.xml
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\System.Buffers.xml
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\System.Collections.Immutable.xml
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\System.Memory.xml
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\System.Numerics.Vectors.xml
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\System.Text.Encodings.Web.xml
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\System.Text.Json.xml
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\System.Threading.Channels.xml
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\System.ValueTuple.xml
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\System.Web.Optimization.xml
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\Newtonsoft.Json.xml
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\Antlr3.Runtime.pdb
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\obj\Debug\PBO_Imanuel.csproj.AssemblyReference.cache
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\obj\Debug\PBO_Imanuel.csproj.CoreCompileInputs.cache
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\obj\Debug\PBO_Imanuel.csproj.CopyComplete
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\obj\Debug\PBO_Imanuel.dll
+C:\Users\imanu\OneDrive\Dokumen\Project\pbo\TA-PBO-Imanuel-main\obj\Debug\PBO_Imanuel.pdb
